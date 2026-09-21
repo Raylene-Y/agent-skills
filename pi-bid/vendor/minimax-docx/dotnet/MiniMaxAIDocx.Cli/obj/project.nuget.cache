@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "w8dbwnq0Plk=",
+  "success": true,
+  "projectFilePath": "/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Cli/MiniMaxAIDocx.Cli.csproj",
+  "expectedPackageFiles": [
+    "/tmp/nohome/.nuget/packages/documentformat.openxml/3.5.1/documentformat.openxml.3.5.1.nupkg.sha512",
+    "/tmp/nohome/.nuget/packages/documentformat.openxml.framework/3.5.1/documentformat.openxml.framework.3.5.1.nupkg.sha512",
+    "/tmp/nohome/.nuget/packages/system.commandline/2.0.5/system.commandline.2.0.5.nupkg.sha512",
+    "/tmp/nohome/.nuget/packages/system.io.packaging/8.0.1/system.io.packaging.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Cli/MiniMaxAIDocx.Cli.csproj": {}
+  },
+  "projects": {
+    "/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Cli/MiniMaxAIDocx.Cli.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Cli/MiniMaxAIDocx.Cli.csproj",
+        "projectName": "MiniMaxAIDocx.Cli",
+        "projectPath": "/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Cli/MiniMaxAIDocx.Cli.csproj",
+        "packagesPath": "/tmp/nohome/.nuget/packages/",
+        "outputPath": "/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Cli/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/tmp/nohome/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/MiniMaxAIDocx.Core.csproj": {
+                "projectPath": "/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/MiniMaxAIDocx.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "System.CommandLine": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.118/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/MiniMaxAIDocx.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/MiniMaxAIDocx.Core.csproj",
+        "projectName": "MiniMaxAIDocx.Core",
+        "projectPath": "/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/MiniMaxAIDocx.Core.csproj",
+        "packagesPath": "/tmp/nohome/.nuget/packages/",
+        "outputPath": "/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/tmp/nohome/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.5.1, )"
+            },
+            "System.CommandLine": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.118/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

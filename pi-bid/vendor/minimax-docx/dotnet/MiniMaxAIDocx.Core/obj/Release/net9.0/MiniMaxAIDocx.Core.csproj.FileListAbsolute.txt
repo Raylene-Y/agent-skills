@@ -1,0 +1,12 @@
+/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/bin/Release/net9.0/MiniMaxAIDocx.Core.deps.json
+/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/bin/Release/net9.0/MiniMaxAIDocx.Core.dll
+/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/bin/Release/net9.0/MiniMaxAIDocx.Core.pdb
+/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/obj/Release/net9.0/MiniMaxAIDocx.Core.csproj.AssemblyReference.cache
+/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/obj/Release/net9.0/MiniMaxAIDocx.Core.GeneratedMSBuildEditorConfig.editorconfig
+/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/obj/Release/net9.0/MiniMaxAIDocx.Core.AssemblyInfoInputs.cache
+/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/obj/Release/net9.0/MiniMaxAIDocx.Core.AssemblyInfo.cs
+/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/obj/Release/net9.0/MiniMaxAIDocx.Core.csproj.CoreCompileInputs.cache
+/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/obj/Release/net9.0/MiniMaxAIDocx.Core.dll
+/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/obj/Release/net9.0/refint/MiniMaxAIDocx.Core.dll
+/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/obj/Release/net9.0/MiniMaxAIDocx.Core.pdb
+/root/.agents/skills/pi-bid/vendor/minimax-docx/dotnet/MiniMaxAIDocx.Core/obj/Release/net9.0/ref/MiniMaxAIDocx.Core.dll
