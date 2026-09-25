@@ -31,6 +31,6 @@
 
 ## 敏感与合规
 
-- □ 不出现真实单位名/番号/涉密词 —— 正文残留真实采购单位名 / 跑 `scripts/check_sensitive_words.py`（项目词表用 --wordlist 补充）
+- □ 不出现真实单位名等 —— 正文残留真实采购单位名 / 跑 `scripts/check_sensitive_words.py`（项目词表用 --wordlist 补充）
 - □ 不出现真实联系方式/地址/邮箱 —— 留示例手机号 / 同上脚本内置规则覆盖
 - □ 导出前跑编号扫描 —— 编号列表失控 / `scripts/scan_numbered_items.py` 检查各小节编号项分布
